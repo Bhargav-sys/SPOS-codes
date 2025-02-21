@@ -1,0 +1,1 @@
+ print(divmod(counter, 6000))
